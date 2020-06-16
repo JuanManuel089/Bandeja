@@ -1,2 +1,0 @@
-# Bandeja
-Created with CodeSandbox

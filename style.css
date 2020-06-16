@@ -1,0 +1,32 @@
+h1 {
+  color: darkred;
+  justify-content: center;
+  display: flex;
+}
+body {
+  background-color: burlywood
+}
+h2 {
+  color: darkred;
+  justify-content: center;
+  display: flex;
+}
+p {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  justify-content: center;
+  display: flex;
+}
+}
+footer {
+  display: flex;
+  justify-content: center;
+}
+#Imagen {
+  justify-content: center;
+  display: flex;
+}
+#VIDEO {
+  justify-content: center;
+  display: flex;
+}
